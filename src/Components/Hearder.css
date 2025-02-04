@@ -1,0 +1,6 @@
+nav .active{
+    color: blue !important;
+}
+a.active{
+    color: blue !important;
+}

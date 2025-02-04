@@ -1,1 +1,1 @@
-"# MoviesHunt" 
+"# MoviesHuntApp" 
